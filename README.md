@@ -19,7 +19,7 @@ Inheritance
 Polymorphism
 
 
-![PICTURE](C:\workspace\bootcampGFT\GameRPG\assets\herois.jpg)
+![PICTURE](https://github.com/jennifergpaula/gameRPG/blob/master/assets/batalha.jpg?raw=true)
 # Mission:
 
 Recreate the backend part of an RPG game using OOP
