@@ -1,0 +1,15 @@
+C:\workspace\bootcampGFT\GameRPG\bin\Debug\net6.0\GameRPG.exe
+C:\workspace\bootcampGFT\GameRPG\bin\Debug\net6.0\GameRPG.deps.json
+C:\workspace\bootcampGFT\GameRPG\bin\Debug\net6.0\GameRPG.runtimeconfig.json
+C:\workspace\bootcampGFT\GameRPG\bin\Debug\net6.0\GameRPG.dll
+C:\workspace\bootcampGFT\GameRPG\bin\Debug\net6.0\ref\GameRPG.dll
+C:\workspace\bootcampGFT\GameRPG\bin\Debug\net6.0\GameRPG.pdb
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.csproj.AssemblyReference.cache
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.AssemblyInfoInputs.cache
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.AssemblyInfo.cs
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.csproj.CoreCompileInputs.cache
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.dll
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\ref\GameRPG.dll
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.pdb
+C:\workspace\bootcampGFT\GameRPG\obj\Debug\net6.0\GameRPG.genruntimeconfig.cache
